@@ -10,7 +10,15 @@ const surname = 'Minin'
 console.log (name, surname)
 
 
-// Name variables and camelCase
+// Name of camelCase
+
+let firstName = 'Ivan'
+const lastName = 'Gromov'
+let age = 30
+console.log (firstName,lastName,age)
+
+
+// Name variables
 
 const FirstName = 'Alex'
 const LastName = 'Pupock'
@@ -20,17 +28,28 @@ const username = 'Vladilen'
 const userlastname = 'Minin'
 console.log (username, userlastname)
 
-const firstName = 'Ivan'
-const lastName = 'Gromov'
-age = 30
-console.log (firstName,lastName,age)
+const _private = 'private'
+console.log (_private)
+
+const _ = " _ "
+console.log (_)
+
+const $ = "$"
+console.log ($)
+
+const field5 = 'field #5'
+console.log (field5)
+
+// const if = 'mkef' // error of if. it is reservetion veriable
+// const 5num = 'number #5'  // error of first number 5. The first simbol is only text
+
 
 
 // Change variable
 
 name = 'Vlad'
 age = 40
-console.log(LastName, age)
+console.log(name, age)
 
 
 // Value variables
@@ -45,8 +64,9 @@ age = 50 //number
 console.log (age)
 
 firstName = 'Ivanko' //string 
+console.log (firstName)
 
-//
+
 
 
 
