@@ -1,28 +1,56 @@
+// Displaing pop-up on screen
+
 alert ('The first message')
 
-var name = 'Vladilen'
-const LastName = 'Minin'
 
+// var & const
+
+var name = 'Vladilen'
+const surname = 'Minin'
+console.log (name, surname)
+
+
+// Name variables and camelCase
+
+const FirstName = 'Alex'
+const LastName = 'Pupock'
+console.log (FirstName, LastName)
+
+const username = 'Vladilen'
+const userlastname = 'Minin'
+console.log (username, userlastname)
+
+const firstName = 'Ivan'
+const lastName = 'Gromov'
+age = 30
+console.log (firstName,lastName,age)
+
+
+// Change variable
 
 name = 'Vlad'
-console.log(LastName)
-
-// It is my first coment here
-
-let age = 30
 age = 40
-console.log(age)
+console.log(LastName, age)
 
-// It is my next comment here
 
-const validatedForm = true
+// Value variables
+
+const validatedForm = true //boolean
 console.log(validatedForm)
 
-//
-
-age = false
+age = false //boolean
 console.log(age)
 
+age = 50 //number
+console.log (age)
+
+firstName = 'Ivanko' //string 
+
 //
+
+
+
+
+
 
 
