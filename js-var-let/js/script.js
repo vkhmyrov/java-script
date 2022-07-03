@@ -44,7 +44,6 @@ console.log (field5)
 // const 5num = 'number #5'  // error of first number 5. The first simbol is only text
 
 
-
 // Change variable
 
 name = 'Vlad'
@@ -65,6 +64,18 @@ console.log (age)
 
 firstName = 'Ivanko' //string 
 console.log (firstName)
+
+
+// Мутирование
+
+console.log ('User Name:' + firstName + ', and his age ' + age)
+
+alert ('User Name:' + firstName + ', and his age:' + age)
+
+// 
+
+const lastName2 = prompt ('Enter your last name')
+alert (firstName + ' ' + lastName2)
 
 
 
