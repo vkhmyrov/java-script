@@ -78,6 +78,17 @@ const lastName2 = prompt ('Enter your last name')
 alert (firstName + ' ' + lastName2)
 
 
+// Операторы
+
+const currentYear = 2022
+const myBirthday = 1984
+
+const myAge = currentYear - myBirthday
+
+console.log (myAge)
+
+
+
 
 
 
