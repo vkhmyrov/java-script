@@ -66,6 +66,33 @@ firstName = 'Ivanko' //string
 console.log (firstName)
 
 
+// Variable in uppercase 
+
+const COLOR_RED = '#F00'
+const COLOR_GREEN = '#0f0'
+const COLOR_BLUE = '#00f'
+const COLOR_ORANGE = '#ff7f00'
+
+let color = COLOR_GREEN
+console.log (color)
+
+// Task practice
+
+
+let name2 = 'Джон'
+let admin
+
+admin = name2 
+alert (admin)
+
+let admin1, name3
+name3 = 'Bro'
+admin1 = name3
+
+alert (admin1)
+
+
+
 // Мутирование
 
 console.log ('User Name:' + firstName + ', and his age ' + age)
@@ -78,7 +105,7 @@ const lastName2 = prompt ('Enter your last name')
 alert (firstName + ' ' + lastName2)
 
 
-// Операторы
+// Operators
 
 const currentYear = 2022
 const myBirthday = 1984
