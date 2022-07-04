@@ -4,7 +4,7 @@ let message = "hello"
 message = 123;
 alert (message)
 
-// Numbet
+// Number
 
 let n = 12345
 n = 555
@@ -23,6 +23,12 @@ alert (Infinity)
 alert ("String"/2) 
 alert (NaN+1)
 alert (3*NaN)
+
+
+// BigInt
+
+const BigInt = 1234567890123456789012345678901234567890n
+alert (BigInt) 
 
 
 //
