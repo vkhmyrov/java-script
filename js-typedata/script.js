@@ -28,7 +28,21 @@ alert (3*NaN)
 // BigInt
 
 const BigInt = 1234567890123456789012345678901234567890n
-alert (BigInt) 
+alert (BigInt)
+
+
+// String
+
+const str = "Hello! You are here"
+const str1 = 'Goodbay! Happy journey'
+const str3 = `Hello user ${firstName}.`
+console.log (str3)
+
+
+let name5 = "Gogo"
+alert (`Hello, ${name5}!`)
+alert (`amount:${1+1}`)
+
 
 
 //
