@@ -60,6 +60,12 @@ let isGreater = 4 > 1
 console.log (`4 > 1 = ${isGreater}`)
 
 
+// Null
+
+let age = null
+
+
+
 //
 
 
