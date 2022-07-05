@@ -10,6 +10,9 @@ let n = 12345
 n = 555
 console.log (n)
 
+age = 50 //number
+console.log (age)
+
 
 // Infinity
 
@@ -32,6 +35,9 @@ alert (BigInt)
 
 
 // String
+
+firstName = 'Ivanko' //string 
+console.log (firstName)
 
 const str = "Hello! You are here"
 const str1 = 'Goodbay! Happy journey'
@@ -75,8 +81,5 @@ console.log (age2)
 //
 
 
-age = 50 //number
-console.log (age)
 
-firstName = 'Ivanko' //string 
-console.log (firstName)
+
