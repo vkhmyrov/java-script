@@ -62,8 +62,14 @@ console.log (`4 > 1 = ${isGreater}`)
 
 // Null
 
-let age = null
+let age1 = null
+console.log (age1)
 
+
+// Undefined
+
+let age2
+console.log (age2)
 
 
 //
