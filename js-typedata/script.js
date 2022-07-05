@@ -44,14 +44,24 @@ alert (`Hello, ${name5}!`)
 alert (`amount:${1+1}`)
 
 
+// Boolean
 
-//
+let nameFieldChecked = true
+let ageFieldChecked = false
+console.log (nameFieldChecked, ageFieldChecked)
 
 const validatedForm = true //boolean
 console.log(validatedForm)
 
 age = false //boolean
 console.log(age)
+
+let isGreater = 4 > 1
+console.log (`4 > 1 = ${isGreater}`)
+
+
+//
+
 
 age = 50 //number
 console.log (age)
